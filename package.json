@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": "18.17.1"
-  },
   "name": "41_project-phase-1(part-a)",
   "version": "1.0.0",
   "description": "",
